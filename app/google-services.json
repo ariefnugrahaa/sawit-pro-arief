@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517541410769",
+    "project_id": "sawit-pro-arief",
+    "storage_bucket": "sawit-pro-arief.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517541410769:android:193a9060462986a53392f0",
+        "android_client_info": {
+          "package_name": "com.example.sawitproarief"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgjuymt66BVjKmgkMd4spxJgMdFkn0lRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
